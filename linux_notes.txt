@@ -1,0 +1,2 @@
+1. A server is a powerful comptuerer tha serves data from itself to client systems
+2. 
