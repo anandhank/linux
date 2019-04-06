@@ -1,2 +1,9 @@
 1. A server is a powerful comptuerer tha serves data from itself to client systems
-2. 
+2. pwd print working directory
+3. cd - change directory
+4. cd - changes to home directory
+5. cd .. - parent directory
+6. cd - - previous directory
+7. ls - list the files in directory
+8. ls -l - long list of files with permissions, file name, file type, size, time, etc 
+9. 
