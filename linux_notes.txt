@@ -1,3 +1,6 @@
+Basic commands:
+=================
+
 1. A server is a powerful comptuerer tha serves data from itself to client systems
 2. pwd print working directory
 3. cd - change directory
@@ -6,4 +9,19 @@
 6. cd - - previous directory
 7. ls - list the files in directory
 8. ls -l - long list of files with permissions, file name, file type, size, time, etc 
-9. 
+9. echo - writes its args to std out	
+10. clear (Ctrl-l)- clears the screen
+11. c=10 - creates variable wiht 10
+12. echo $c - prints the value of the variable
+13. su - switch to root user
+14. su username - switch to user username
+15. sudo - runs the argument command as root user - only the current command, it wll not switch to user.
+16. exit - to exit from the user login or terminate the session
+17. / - root directory
+
+
+ls [options] [file|Directory] - Command:
+===============
+1. ls path - lists the contents of the path
+2. ls -l  -  long list of files with owner settings permissions, file name, file type, size, time, etc 
+
